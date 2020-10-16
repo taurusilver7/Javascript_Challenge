@@ -4,7 +4,7 @@ The repository contains all the applications created using either of the javascr
 
 #### My projects
 * Budget Application
-
+* Dice Games (1 & 2 dices)
 
 #### Neccessary libraries
 **Unknow as of date. Will be updated once tallied.**
