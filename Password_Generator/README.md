@@ -15,7 +15,7 @@
 
 [![](https://img.shields.io/badge/-Title%20Icon-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.favicon.cc/?action=icon&file_id=484906)
 
-**[Generator Function](https://www.net-comber.com/charset.html)
+[![](https://img.shields.io/badge/-Generator%20Function-4287f5.svg?style=flat&colorA=0a0a0a)](https://www.net-comber.com/charset.html)
 
 
 
