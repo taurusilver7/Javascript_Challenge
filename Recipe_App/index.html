@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <!-- Stylesheet & title icon -->
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="icon" href="favicon.ico"  type="image/x-icon"/>
+    <title>Recipe App</title>
+</head>
+<body>
+
+    <div class="mobile-container">
+        <header>
+            <input type="text" id="search-term">
+            <button id="search"><i class="fas fa-search" id="search"></i></button>
+        </header>
+        <div class="fav-container">
+            <h3>Favourite Meals</h3>
+            <ul class="fav-meals" id="fav-meals"></ul>
+        </div>
+        <div class="meals" id="meals">
+
+        </div>
+    </div>
+
+    <div class="popup-container hidden" id="meal-popup">
+        <div class="popup">
+            <button id="close-popup" class="close-popup"><i class="fas fa-times"></i></button>
+            <div class="meal-info" id="meal-info">
+                <!-- <h1>Meal title</h1>
+                <img 
+                    src="https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg" alt="">
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate possimus nulla reiciendis inventore enim consectetur quod!</p>
+                <ul>
+                    <li>ing measure 1</li>
+                    <li>ing measure 2</li>
+                    <li>ing measure 3</li>
+                </ul> -->
+            </div>
+        </div>
+    </div>
+    
+    
+    <script src="script.js" defer></script>
+</body>
+</html>
