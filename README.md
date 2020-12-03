@@ -9,6 +9,7 @@ The repository contains the javascript applications, projects, portfolio's creat
 
 ![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a) ![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
 
-![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-Recipe%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-Recipe%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+
 
 
