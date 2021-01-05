@@ -4,5 +4,5 @@
 
 <p align="center">
   <img src="./img/mapty.png" width="350" title="hover text">
-  <img src="./img/mapty.png" width="350" alt="accessibility text">
+  <img src="./img/Mapty-flowchart.png" width="350" alt="accessibility text">
 </p>
