@@ -2,6 +2,10 @@
 #### A budget application to carry out the expenses and incomes at close range values.
 #### The application calculates expense percent of the income, budget preferred for months.
 #### The application is an user-interactive model to respond to every additional, removal of an item to the equation.
+***
+<p align="center">
+  <img src="./budget.png" width="350" title="hover text">
+</p>
 
 ## All the modules in the application are listed below.
 **budgetController**
