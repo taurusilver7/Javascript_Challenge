@@ -4,7 +4,7 @@
 #### The application is an user-interactive model to respond to every additional, removal of an item to the equation.
 ***
 <p align="center">
-  <img src="./budget.png" width="350" title="hover text">
+  <img src="./budgety.png" width="350" title="hover text">
 </p>
 
 ## All the modules in the application are listed below.
