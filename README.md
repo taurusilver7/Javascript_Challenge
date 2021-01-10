@@ -4,9 +4,11 @@ The repository holds the javascript applications, projects, portfolio's created 
 ***
 #### My projects
 [![](https://img.shields.io/badge/-Budget%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Budget%20App/)
+
 <p align='center'>
-  <img src="./budgety.png' alt='screenshot' />
+  <img src="./budgety.png" alt='screenshot' />
 </p>
+  
 [![](https://img.shields.io/badge/-Dice%20Games-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/2_Dice_game/)   [![](https://img.shields.io/badge/-Countdown%20Timer-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Countdown_Tiimer/)
 
 ![](https://img.shields.io/badge/-Notes%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-password%20generator-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)
