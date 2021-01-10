@@ -6,7 +6,7 @@ The repository holds the javascript applications, projects, portfolio's created 
 [![](https://img.shields.io/badge/-Budget%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Budget%20App/)
 
 <p align='center'>
-  <img src="./budgety.png" alt='screenshot' />
+  <img src="./Budget%20App/budgety.png" width="350 alt='screenshot' />
 </p>
   
 [![](https://img.shields.io/badge/-Dice%20Games-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/2_Dice_game/)   [![](https://img.shields.io/badge/-Countdown%20Timer-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Countdown_Tiimer/)
