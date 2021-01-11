@@ -1,5 +1,4 @@
 # Javascript
-<style> body { background:black } </style>
 The repository holds the javascript applications, projects, portfolio's created using javascript as core language.
 >All the appllications are either learned or created after a series of practise.
 ***
@@ -40,6 +39,9 @@ The repository holds the javascript applications, projects, portfolio's created 
 ![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a) ![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
 
 ![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-Recipe%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+
+
+<style> body { background: #383838 } </style>
 
 
 
