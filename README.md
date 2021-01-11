@@ -1,4 +1,5 @@
 # Javascript
+<style> body { background:black } </style>
 The repository holds the javascript applications, projects, portfolio's created using javascript as core language.
 >All the appllications are either learned or created after a series of practise.
 ***
