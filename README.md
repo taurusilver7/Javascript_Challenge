@@ -34,15 +34,23 @@ The repository holds the javascript applications, projects, portfolio's created 
   <img src="./Password_Generator/password.png" width="300" alt='screenshot' />
 </p><br/>
 
+[![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/GitHub_Profile/)
+<p align='left'>
+  <img src="./GitHub_Profile/git_profile.png" width="300" alt='screenshot' />
+</p><br/>
+
+[![](https://img.shields.io/badge/-Recipe%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Recipe_App/)
+<p align='left'>
+  <img src="./Recipe_App/recipe.png" width="300" alt='screenshot' />
+</p><br/>
+
+![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)
+![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)
+![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
 
 
-![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a) ![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
-
-![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-Recipe%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
-
-[![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)]
-
-<style> body { background: #383838 } </style>
 
 
 
