@@ -8,15 +8,13 @@ The repository holds the javascript applications, projects, portfolio's created 
 
 <p align='center'>
   <img src="./Budget%20App/budgety.png" width="300 alt='screenshot' />
-</p><br/>
-[![](https://img.shields.io/badge/-Countdown%20Timer-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Countdown_Tiimer/)<br/>
-[![](https://img.shields.io/badge/-Dice%20Games-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/2_Dice_game/)
-> A player vs computer dice game with variable end score.
-<p align='center'>
-  <img src="./Dice_game/image/dicee.png" width="300 alt='screenshot' />
 </p>
 
-![](https://img.shields.io/badge/-Notes%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)   ![](https://img.shields.io/badge/-password%20generator-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)
+[![](https://img.shields.io/badge/-Dice%20Games-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/2_Dice_game/)
+> A player vs computer dice game with variable end score.
+
+
+[![](https://img.shields.io/badge/-Notes%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)]   [![](https://img.shields.io/badge/-password%20generator-0a0a0a.svg?style=flat&colorA=0a0a0a)]  [![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)]
 
 ![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)  ![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a) ![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
 
