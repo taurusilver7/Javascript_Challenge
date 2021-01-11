@@ -12,6 +12,10 @@ The repository holds the javascript applications, projects, portfolio's created 
   
 [![](https://img.shields.io/badge/-Dice%20Games-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/2_Dice_game/)
 > A player vs computer dice game with variable end score.
+<p align='center'>
+  <img src="./Dice_game/image/dicee.png" width="300 alt='screenshot' />
+</p>
+
 
 [![](https://img.shields.io/badge/-Countdown%20Timer-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Countdown_Tiimer/)
 
