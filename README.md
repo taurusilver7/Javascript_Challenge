@@ -51,7 +51,7 @@ The repository holds the javascript applications, projects, portfolio's created 
 
 [![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/JS_Drum_Kit/)
 [![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Drawing_Canvas/)
-![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)
+[![](https://img.shields.io/badge/-Weather%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Weather_App/)
 
 
 
