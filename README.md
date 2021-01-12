@@ -36,6 +36,7 @@ The repository holds the javascript applications, projects, portfolio's created 
 </p><br/>
 
 [![](https://img.shields.io/badge/-Github%20Profile-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/GitHub_Profile/)
+> a githb user search interface to log username, repos, following details
 <p align='left'>
   <img src="./GitHub_Profile/git_profile.png" width="300" alt='screenshot' />
 </p><br/>
