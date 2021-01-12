@@ -5,7 +5,6 @@ The repository holds the javascript applications, projects, portfolio's created 
 #### My projects
 [![](https://img.shields.io/badge/-Budget%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Budget%20App/)
 > A responsive monthly budget tracking application with simple yet quirky animations.
-
 <p align='left'>
   <img src="./Budget%20App/budgety.png" width="300" alt='screenshot' />
 </p><br/>
