@@ -30,6 +30,7 @@ The repository holds the javascript applications, projects, portfolio's created 
 </p><br/>
 
 [![](https://img.shields.io/badge/-password%20generator-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/Password_Generator/)
+> A random custom password generation application
 <p align='left'>
   <img src="./Password_Generator/password.png" width="300" alt='screenshot' />
 </p><br/>
