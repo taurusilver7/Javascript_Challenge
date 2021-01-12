@@ -47,8 +47,7 @@ The repository holds the javascript applications, projects, portfolio's created 
   <img src="./Recipe_App/recipe.png" width="300" alt='screenshot' />
 </p><br/>
 
-![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)
-[![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/TO_DO/)
+[![](https://img.shields.io/badge/-JS%20Clock-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/JS_Clock/)  [![](https://img.shields.io/badge/-ToDo%20App-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://taurusilver7.github.io/Javascript_Challenge/TO_DO/)
 
 ![](https://img.shields.io/badge/-Drum%20Kit-0a0a0a.svg?style=flat&colorA=0a0a0a)
 ![](https://img.shields.io/badge/-Canvas%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
