@@ -8,7 +8,7 @@
 * copy to clipboard
 
 ## Stock
-<p align='center'>
+<p>
   <img src='password.png' alt='screenshot' width='350' />
 </p>
 
