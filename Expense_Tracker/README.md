@@ -8,3 +8,7 @@
 - add new transactions and reflect in total
 - Delete items from DOM
 - Persist to local storage.
+
+<p>
+  <img src='tracker.png' alt='screenshot' width='300' />
+</p>
