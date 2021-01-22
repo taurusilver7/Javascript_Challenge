@@ -9,7 +9,7 @@
 
 ## Stock
 <p align='center'>
-  <img src='' alt='screenshot' />
+  <img src='password.png' alt='screenshot' width='350' />
 </p>
 
 [![](https://img.shields.io/badge/-Sample%20Model-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://codepen.io/florinpop17/full/BaBePej) [![](https://img.shields.io/badge/-Sample%20Model-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://uidesigndaily.com/posts/studio-dark-components-theme-cards-post-tooltip-day-1087)
